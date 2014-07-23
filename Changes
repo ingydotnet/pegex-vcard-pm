@@ -1,4 +1,9 @@
 ---
+version: 0.02
+date:    Wed Jul 23 14:29:07 PDT 2014
+changes:
+- Line text and tree into grammar class.
+---
 version: 0.01
 date:    Tue Jul 22 21:18:28 PDT 2014
 changes:

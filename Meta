@@ -1,7 +1,7 @@
 =meta: 0.0.1
 
 name: Pegex-vCard
-version: 0.01
+version: 0.02
 abstract: Pegex Parser for vCard
 homepage: http://pegex.org
 
