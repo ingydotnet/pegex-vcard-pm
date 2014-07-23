@@ -1,0 +1,29 @@
+=meta: 0.0.1
+
+name: Pegex-vCard
+version: 0.01
+abstract: Pegex Parser for vCard
+homepage: http://pegex.org
+
+license: perl
+copyright: 2014. Ingy döt Net.
+author:
+  name: Ingy döt Net
+  email: ingy@cpan.org
+  github: ingydotnet
+  twitter: ingydotnet
+  freenode: ingy
+  homepage: http://ingy.net
+
+requires:
+  perl: 5.8.1
+  Pegex: 0.40
+
+devel:
+  git: https://github.com/ingydotnet/pegex-vcard-pm
+  bug: https://github.com/ingydotnet/pegex-vcard-pm/issues
+  irc: irc.freenode.net#pegex
+
+=travis:
+  type: perl
+  irc: irc.freenode.net#pegex
