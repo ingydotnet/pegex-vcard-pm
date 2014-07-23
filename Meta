@@ -17,7 +17,7 @@ author:
 
 requires:
   perl: 5.8.1
-  Pegex: 0.40
+  Pegex: 0.43
 
 devel:
   git: https://github.com/ingydotnet/pegex-vcard-pm
