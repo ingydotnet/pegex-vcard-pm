@@ -12,8 +12,8 @@ Pegex Parser for vCard
 
 = Description
 
-This module provides a Pegex grammar driven parser for the vCard format.
-It returns a hash containing all the data.
+This module provides a Pegex grammar driven parser for the vCard format. It
+returns a hash containing all the data.
 
 = See Also
 
@@ -25,7 +25,7 @@ Ingy döt Net <ingy@cpan.org>
 
 = Copyright and License
 
-Copyright (c) 2014. Ingy döt Net.
+Copyright 2014. Ingy döt Net.
 
 This program is free software; you can redistribute it and/or modify it under
 the same terms as Perl itself.
